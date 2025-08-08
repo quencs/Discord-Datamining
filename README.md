@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/watch?v=7eKv4BEujFU" target="_blank">![Logo](https://user-images.githubusercontent.com/18150845/114615827-6fda1700-9ca6-11eb-8cdd-cd70c5ce90c4.png "Logo")</a>
 
-# Discord-Datamining
+    # Discord-Datamining
 Datamining is done through comparing the JavaScript files served to the Discord Canary client which have different hashes per build change.
 
 Keep in mind that a lot of build changes feature variable renaming, new tabs, newlines, etc.. which usually don't change anything on the user-side. Some changes may not appear in the file diffs, since we only compare the entry JS file and not any of the (hundreds of) chunk files. So please take these build notes with a grain of salt.
