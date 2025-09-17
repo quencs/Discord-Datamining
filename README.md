@@ -1,4 +1,3 @@
-    <a href="https://www.youtube.com/watch?v=7eKv4BEujFU" target="_blank">![Logo](https://user-images.githubusercontent.com/18150845/114615827-6fda1700-9ca6-11eb-8cdd-cd70c5ce90c4.png "Logo")</a>
 
     # Discord-Datamining
 Datamining is done through comparing the JavaScript files served to the Discord Canary client which have different hashes per build change.
