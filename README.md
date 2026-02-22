@@ -1,4 +1,4 @@
-    
+    README.md
     Discord-Datamining
 Datamining is done through comparing the JavaScript files served to the Discord Canary client which have different hashes per build change.
 
